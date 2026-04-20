@@ -77,7 +77,4 @@ public class Brick {
         collision = false;
         hitsRemaining = 3;      
     } 
- 
-public class Brick {
-
-}
+} 
